@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonathan Oliveira</h1>
 <h3 align="center">A passionate student for software development.</h3>
 
-- 🔭 I’m currently working on **Technical requirements research for a INDIE game**
-
-- 🌱 I’m currently learning **Unity engine and c#.**
+- 🌱 I’m currently learning **c# with XNA framework.**
 
 - 📫 How to reach me **jonathancardosoliveira@gmail.com**
 
@@ -32,3 +30,4 @@
 
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathancardosoliveira&show_icons=true&locale=en&layout=compact" alt="jonathancardosoliveira" /></p>
 
+- 🔭 I’m currently working on **Technical requirements research for a INDIE game**
