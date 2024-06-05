@@ -25,9 +25,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathancardosoliveira&show_icons=true&locale=en" alt="jonathancardosoliveira" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathancardosoliveira&" alt="jonathancardosoliveira" /></p>
-
-
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathancardosoliveira&show_icons=true&locale=en&layout=compact" alt="jonathancardosoliveira" /></p>
 
 - 🔭 I’m currently working on **Technical requirements research for a INDIE game**
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathancardosoliveira&" alt="jonathancardosoliveira" /></p>
