@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonathan Oliveira</h1>
 <h3 align="center">A passionate student for software development.</h3>
 
-- 🌱 I’m currently learning **c# with XNA framework.**
+- 🌱 I’m currently an intern on CISS(software house).
 
 - 📫 How to reach me **jonathancardosoliveira@gmail.com**
 
